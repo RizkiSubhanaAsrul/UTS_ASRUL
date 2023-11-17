@@ -1,0 +1,216 @@
+Jawaban
+6 = Rizki
+2 = Subhana
+1. Relasi
+A. Orang Tua
+- Rizki orang tua dari Subhana
+- Rizki orang tua dari Wahyu
+- Rizki orang tua dari Rina
+- Rizki orang tua dari Ardi
+- Retno orang tua dari Subhana
+- Retno orang tua dari Wahyu
+- Retno orang tua dari Rina
+- Retno orang tua dari Ardi
+- Bayu orang tua dari Tari 
+- Bayu orang tua dari Nurul 
+- Bayu orang tua dari Yanto 
+- Subhana orang tua dari Tari
+- Subhana orang tua dari Nurul 
+- Subhana orang tua dari Yanto
+- Rina orang tua dari Hamzah
+- Ardi orang tua dari Eka
+- Ardi orang tua dari Mira
+- Ardi orang tua dari Bastian
+- Ana orang tua dari Eka
+- Ana orang tua dari Mira
+- Ana orang tua dari Bastian
+- Fahrul orang tua dari wanda 
+- Tari orang tua dari wanda
+- Nurul orang tua dari Aji
+- Nurul orang tua dari Gunawan
+- Mira orang tua dari Anggun
+- Mira orang tua dari Boy
+B. Saudara Laki2
+- Wahyu saudara laki-laki dari Subhana
+- Wahyu saudara laki-laki dari Rina
+- Wahyu saudara laki-laki dari Ardi
+- Ardi saudara laki-laki dari Subhana
+- Ardi saudara laki-laki dari Rina
+- Ardi saudara laki-laki dari Wahyu
+- Yanto saudara laki-laki dari Tari
+- Yanto saudara laki-laki dari Nurul
+- Bastian saudara laki-laki dari Eka
+- Bastian saudara laki-laki dari Mira
+- Aji saudara laki-laki dari Gunawan
+- Gunawan saudara laki-laki dari Aji
+- Boy saudara laki-laki dari Anggun
+
+C. Saudara Perempuan
+- Subhana saudara perempuan dari Wahyu
+- Subhana saudara perempuan dari Rina
+- Subhana saudara perempuan dari Ardi
+- Rina saudara perempuan dari Subhana
+- Rina saudara perempuan dari Wahyu
+- Rina saudara perempuan dari Ardi
+- Tari saudara perempuan dari Nurul
+- Tari saudara perempuan dari Yanto
+- Nurul saudara perempuan dari Tari
+- Nurul saudara perempuan dari Yanto
+- Eka saudara perempuan dari Mira
+- Eka saudara perempuan dari Bastian
+- Mira saudara perempuan dari Eka
+- Mira saudara perempuan dari Bastian
+- Anggun saudara perempuan dari Boy
+
+D. Paman
+- Bayu paman dari Hamzah
+- Bayu paman dari Eka
+- Bayu paman dari Mira
+- Bayu paman dari Bastian
+- Wahyu paman dari Tari
+- Wahyu paman dari Nurul
+- Wahyu paman dari Yanto
+- Wahyu paman dari Hamzah
+- Wahyu paman dari Eka
+- Wahyu paman dari Mira
+- Wahyu paman dari Bastian
+- Ardi paman dari Tari
+- Ardi paman dari Nurul
+- Ardi paman dari Yanto
+- Ardi paman dari Hamzah
+- Yanto paman dari Wanda
+- Yanto paman dari Aji
+- Yanto paman dari Gunawan
+- Yanto paman dari Anggun
+- Yanto paman dari Boy
+- Hamzah paman dari Wanda
+- Hamzah paman dari Aji
+- Hamzah paman dari Gunawan
+- Hamzah paman dari Anggun
+- Hamzah paman dari Boy
+- Bastian paman dari Wanda
+- Bastian paman dari Aji
+- Bastian paman dari Gunawan
+- Bastian paman dari Anggun
+- Bastian paman dari Boy
+- Fahrul paman dari Aji
+- Fahrul paman dari Gunawan
+- Fahrul paman dari Anggun
+- Fahrul paman dari Boy
+
+E. Bibi
+- Subhana bibi dari Hamzah
+- Subhana bibi dari Eka
+- Subhana bibi dari Mira
+- Subhana bibi dari Bastian
+- Rina bibi dari Tari
+- Rina bibi dari Nurul
+- Rina bibi dari Yanto
+- Rina bibi dari Eka
+- Rina bibi dari Mira
+- Rina bibi dari Bastian
+- Ana bibi dari Tari
+- Ana bibi dari Nurul
+- Ana bibi dari Yanto
+- Tari bibi dari Aji
+- Tari bibi dari Gunawan
+- Tari bibi dari Anggun
+- Tari bibi dari Boy
+- Nurul bibi dari Wanda
+- Nurul bibi dari Anggun
+- Nurul bibi dari Boy
+- Eka bibi dari Wanda
+- Eka bibi dari Aji
+- Eka bibi dari Gunawan
+- Mira bibi dari Wanda
+- Mira bibi dari Aji
+- Mira bibi dari Gunawan
+
+F. Kakek
+- Rizki kakek dari Tari
+- Rizki kakek dari Nurul
+- Rizki kakek dari Yanto
+- Rizki kakek dari Hamzah
+- Rizki kakek dari Eka
+- Rizki kakek dari Mira
+- Rizki kakek dari Bastian
+- Bayu kakek dari Wanda
+- Bayukakek dari Aji
+- Bayu kakek dari Gunawan
+- Ardi kakek dari Anggun
+- Ardi kakek dari Boy
+
+G. Nenek
+- Retno nenek dari Tari
+- Retno nenek dari Nurul
+- Retno nenek dari Yanto
+- Retno nenek dari Hamzah
+- Retno nenek dari Eka
+- Retno nenek dari Mira
+- Retno nenek dari Bastian
+- Subhana nenek dari Wanda
+- Subhana nenek dari Aji
+- Subhana nenek dari Gunawan
+- Ana nenek dari Anggun
+- Ana nenek dari Boy
+
+H. Sepupu
+- Tari sepupu dari Hamzah
+- Tari sepupu dari Eka
+- Tari sepupu dari Mira
+- Tari sepupu dari Bastian
+- Nurul sepupu dari Hamzah
+- Nurul sepupu dari Eka
+- Nurul sepupu dari Mira
+- Nurul sepupu dari Bastian
+- Yanto sepupu dari Hamzah
+- Yanto sepupu dari Eka
+- Yanto sepupu dari Mira
+- Yanto sepupu dari Bastian
+- Hamzah sepupu dari Tari
+- Hamzah sepupu dari Nurul
+- Hamzah sepupu dari Yanto
+- Hamzah sepupu dari Eka
+- Hamzah sepupu dari Mira
+- Hamzah sepupu dari Bastian
+- Eka sepupu dari Tari
+- Eka sepupu dari Nurul
+- Eka sepupu dari Yanto
+- Mira sepupu dari Tari
+- Mira sepupu dari Nurul
+- Mira sepupu dari Yanto
+- Bastian sepupu dari Tari
+- Bastian sepupu dari Nurul
+- Bastian sepupu dari Yanto
+- Wanda sepupu dari Aji
+- Wanda sepupu dari Gunawan
+- Wanda sepupu dari Anggun
+- Wanda sepupu dari Boy
+- Aji sepupu dari Wanda
+- Aji sepupu dari Gunawan
+- Aji sepupu dari Anggun
+- Aji sepupu dari Boy
+- Gunawan sepupu dari Wanda
+- Gunawan sepupu dari Aji
+- Gunawan sepupu dari Anggun
+- Gunawan sepupu dari Boy
+- Anggun sepupu dari Wanda
+- Anggun sepupu dari Aji
+- Anggun sepupu dari Gunawan
+- Anggun sepupu dari Boy
+- Boy sepupu dari Wanda
+- Boy sepupu dari Aji
+- Boy sepupu dari Gunawan
+- Boy sepupu dari Anggun
+
+
+
+
+	
+ 
+
+Nama : Rizki Subhana Asrul
+Kelas  : TIF B 2021
+Nim    : 23421026
+
+
